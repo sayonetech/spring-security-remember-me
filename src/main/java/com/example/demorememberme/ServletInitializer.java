@@ -1,7 +1,7 @@
-package com.example.demoRememberMe;
+package com.example.demorememberme;
 
-import com.example.demoRememberMe.model.user.User;
-import com.example.demoRememberMe.model.user.UserRepository;
+import com.example.demorememberme.model.user.User;
+import com.example.demorememberme.model.user.UserRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;

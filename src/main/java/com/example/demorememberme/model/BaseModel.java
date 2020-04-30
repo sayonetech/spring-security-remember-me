@@ -1,4 +1,4 @@
-package com.example.demoRememberMe.model;
+package com.example.demorememberme.model;
 
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;

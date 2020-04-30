@@ -1,4 +1,4 @@
-package com.example.demoRememberMe.model.user;
+package com.example.demorememberme.model.user;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

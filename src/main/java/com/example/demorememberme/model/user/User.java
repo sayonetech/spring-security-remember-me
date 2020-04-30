@@ -1,6 +1,6 @@
-package com.example.demoRememberMe.model.user;
+package com.example.demorememberme.model.user;
 
-import com.example.demoRememberMe.model.BaseModel;
+import com.example.demorememberme.model.BaseModel;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

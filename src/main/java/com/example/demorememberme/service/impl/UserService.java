@@ -1,7 +1,7 @@
-package com.example.demoRememberMe.service.impl;
+package com.example.demorememberme.service.impl;
 
-import com.example.demoRememberMe.model.user.User;
-import com.example.demoRememberMe.model.user.UserRepository;
+import com.example.demorememberme.model.user.User;
+import com.example.demorememberme.model.user.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

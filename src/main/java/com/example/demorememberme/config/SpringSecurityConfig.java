@@ -1,4 +1,4 @@
-package com.example.demoRememberMe.config;
+package com.example.demorememberme.config;
 
 
 import org.springframework.beans.factory.annotation.Autowired;

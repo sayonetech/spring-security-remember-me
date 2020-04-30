@@ -1,4 +1,4 @@
-package com.example.demoRememberMe;
+package com.example.demorememberme;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.example.demoRememberMe;
+package com.example.demorememberme;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
